@@ -73,7 +73,7 @@ export default function App() {
         <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-3" style={{ fontFamily: "var(--font-family)", fontWeight: "var(--font-weight)" }}>
           <div className="flex items-center gap-3">
             <div className="grid h-9 w-9 place-items-center rounded-xl bg-slate-900 text-white">UI</div>
-            <span className="text-lg font-bold">Ikarus 3D</span>
+            <span className="text-lg font-bold">Ikarus</span>
           </div>
           <div className="relative flex items-center gap-2">
             <div className="flex items-center gap-1 rounded-lg border p-1 text-xs">
